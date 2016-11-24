@@ -6,7 +6,7 @@ package com.frostmaster.Katas.TriangularTreasure;
 public class Solution {
 
     public static void main(String[] args){
-        
+
     }
 
 }
